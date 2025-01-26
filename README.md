@@ -1,2 +1,3 @@
 # LLM-Evaluator-For-Code-Generation
-Using LLM as an evaluator for code generation.
+
+The report of this project can be found in this PDF titled: **LLM as a Judge for Code Generation.pdf**
